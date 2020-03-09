@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 py_practice/
+data/
 downloads/
 eggs/
 .eggs/
