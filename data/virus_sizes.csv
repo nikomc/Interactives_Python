@@ -1,4 +1,4 @@
-Virus,Size (nm),Genome Size (Bases),Genome Type
+Virus,diameter (nm),Genome Size (Bases),Genome Type
 porcine circovirus (PCV),17,1760,circular ssDNA
 cowpea mosaic virus (CPMV),28,9400,2 ssRNA molecules
 cowpea chlorotic mottle virus (CCMV),28,7900,3 ssRNA molecules
@@ -12,3 +12,4 @@ HIV-1,135,9700,ssRNA
 herpes simplex virus 1,125,153000,dsDNA
 Epstein-Barr virus (EBV),140,170000,dsDNA
 mimivirus,500,1200000,dsDNA
+2019-nCov,60,29844,ssRNA
